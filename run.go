@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/RebelBIrd/go-astilectron"
+	astibundler "github.com/RebelBIrd/go-astilectron-bundler"
 	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
-	astibundler "github.com/asticode/go-astilectron-bundler"
 )
 
 // Run runs the bootstrap

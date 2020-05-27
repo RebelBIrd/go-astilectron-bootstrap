@@ -3,8 +3,8 @@ package bootstrap
 import (
 	"os"
 
+	"github.com/RebelBIrd/go-astilectron"
 	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
 )
 
 // Options represents options

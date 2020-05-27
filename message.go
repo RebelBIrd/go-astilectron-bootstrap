@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 
+	"github.com/RebelBIrd/go-astilectron"
 	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
 )
 
 // MessageOut represents a message going out
